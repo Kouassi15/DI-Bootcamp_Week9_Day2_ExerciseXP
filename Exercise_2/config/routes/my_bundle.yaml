@@ -1,0 +1,4 @@
+# config/routes/my_bundle.yaml
+my_bundle_homepage:
+    path: /my-route
+    controller: App\MyBundle\Controller\MyController::index
